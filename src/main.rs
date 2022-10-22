@@ -1,7 +1,7 @@
 use std::io;
 
 fn main() {
-    println!("Guess the number!");
+    println!("Guess the number please!");
 
     println!("Please input your guess.");
 
